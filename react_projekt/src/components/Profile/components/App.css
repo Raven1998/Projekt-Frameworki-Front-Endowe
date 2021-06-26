@@ -1,0 +1,309 @@
+label {
+    margin-bottom: 0rem !important;
+}
+/*--------------*/
+.buttonContainer2 {
+    width: 100%;
+    margin-left: 2em;
+}
+.buttonContainer2 button {
+    width: 5em;
+    font-size: 1.2em;
+    border-radius: 30px;
+    margin-bottom: 1em;
+}
+/*----------------Container2-----------------*/
+.Container2 {
+    width: 95%;
+    height: 8em;
+    display: Flex;
+    flex-direction: row;
+    margin-left: 1em;
+    border-bottom: 2px solid #ebebeb;
+}
+.Container2 input {
+    width: 6em;
+    font-size: 21px;
+}
+/*--------------*/
+.Box1Container2 {
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Box1Container2 a {
+    color: #76afbe;
+    margin-top: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 13px;
+}
+.profileImg {
+    width: 3em;
+}
+/*--------------*/
+.Box2Container2 {
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Box2Container2 input {
+    font-size: 21px;
+    width: 10em;
+    border-radius: 10px;
+    text-align: center;
+}
+.label1Container2 {
+    margin-left: 6em;
+    width: 10em;
+    color: #4b5268;
+    line-height: 1.5em;
+}
+/*--------------*/
+.Box3Container2 {
+    width: 75%;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.Box3Container2 input {
+    font-size: 21px;
+    width: 13em;
+    border-radius: 10px;
+    text-align: center;
+}
+.label2Container2 {
+    color: #4b5268;
+    line-height: 1.5em;
+}
+
+/*----------------Container3-----------------*/
+.Container3 {
+    width: 95%;
+    height: 18em;
+    display: Flex;
+    flex-direction: column;
+    margin-left: 1em;
+    border-bottom: 2px solid #ebebeb;
+}
+.Box1Container3 {
+    display: flex;
+    flex-direction: column;
+}
+.label1Container3 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+    line-height: 1.5em;
+}
+.label1Container3 label {
+    width: 13em;
+    background-color: #dfecf0;
+    border-radius: 5px;
+    color: #6faabb;
+}
+.label1Container3 input {
+    width: 13em;
+    border-radius: 5px;
+    font-size: 21px;
+}
+.TitleContainer3 {
+    font-size: 23px;
+    color: lightgray;
+    font-weight: bold;
+}
+/*----------------Container4-----------------*/
+.Container4 {
+    width: 95%;
+    height: 25em;
+    display: Flex;
+    flex-direction: column;
+    margin-left: 1em;
+    border-bottom: 2px solid #ebebeb;
+    margin-top: 20px;
+}
+.Container4 input {
+    width: 12em;
+    border-radius: 5px;
+    font-size: 21px;
+}
+/*-------------------*/
+.Container4 h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.Box1Container4 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2px;
+}
+.label1Container4 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+}
+.label1Container4 label {
+    color: #404966;
+}
+.TitleContainer4 {
+    font-size: 23px;
+    color: lightgray;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+/*-------InputFile------*/
+.inputFile {
+    margin-top: 1em;
+}
+/*---------------------*/
+.MiniBox {
+    display: flex;
+    width: 100%;
+    height: 1.5em;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5px;
+    background-color: #f5f7f9;
+    border-radius: 10px;
+    color: #404966;
+}
+.MiniBox label {
+    margin-left: 10px;
+}
+.IconWithText1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+.IconWithText2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 8em;
+}
+.IconWithText2 span {
+    margin-left: 10px;
+}
+.ImgMessage {
+    color: #4b5369;
+}
+/*----------Container-5-----------*/
+.Container5 {
+    width: 95%;
+    height: 13em;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1em;
+    border-bottom: 2px solid #ebebeb;
+    margin-top: 20px;
+}
+.Container5 h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.linkCon5 a {
+    color: #76afbe;
+    margin-top: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.linkCon5 {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.linkCon5-2 a {
+    color: #000000;
+    margin-top: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.linkCon5-2 {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+/*-----------*/
+.Box1Container5 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    border-bottom: 2px solid #ebebeb;
+}
+.label1Container5 {
+    display: flex;
+    flex-direction: row;
+}
+.TitleContainer5 {
+    font-weight: bold;
+    margin-left: 85px;
+    margin-bottom: 10px;
+}
+.label2Container5 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.label2Container5 label {
+    margin-left: 52px;
+    margin-bottom: 10px;
+}
+.label2Container5 input {
+    width: 6em;
+    border-radius: 5px;
+    font-size: 21px;
+}
+/*-------------container--6------------------*/
+.Container6 {
+    width: 95%;
+    height: 25em;
+    display: flex;
+    flex-direction: row;
+    margin-left: 1em;
+    margin-top: 20px;
+}
+.h1-con6 {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.position {
+    display: flex;
+}
+/*-----------*/
+.Box1Container6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-bottom: 2px solid #ebebeb;
+    margin-left: 40px;
+}
+.label1Container6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+.TitleContainer6 {
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+.label1Container6 label {
+    margin: 20px;
+}
+.label1Container6 input {
+    width: 6em;
+    border-radius: 5px;
+    font-size: 21px;
+    margin: 8px;
+}
