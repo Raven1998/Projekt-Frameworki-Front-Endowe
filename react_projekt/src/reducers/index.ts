@@ -5,6 +5,7 @@ import comment, { ICommentReducer } from './commentsReducers';
 import photo, { IPhotoReducer } from './photoReducers';
 
 
+
 export default combineReducers({
     users,
     posts,
